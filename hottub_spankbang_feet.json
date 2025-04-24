@@ -1,8 +1,12 @@
 {
-    "name": "SpankBang - Feet",
-    "type": "scraper",
-    "url": "https://spankbang.com/s/feet/",
-    "scraper": "generic",
-    "icon": "https://spankbang.com/favicon.ico",
-    "enabled": true
+  "sources": [
+    {
+      "name": "SpankBang - Feet",
+      "type": "scraper",
+      "url": "https://spankbang.com/s/feet/",
+      "scraper": "generic",
+      "icon": "https://spankbang.com/favicon.ico",
+      "enabled": true
+    }
+  ]
 }
